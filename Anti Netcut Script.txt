@@ -1,0 +1,4 @@
+arp -d
+netsh -c "interface ipv4"
+set neighbors "Wireless Network Connection" 192.168.1.1 FC-B6-98-6E-FE-F8
+set neighbors "Wireless Network Connection" 192.168.1.13 3C-77-E6-78-93-C1
